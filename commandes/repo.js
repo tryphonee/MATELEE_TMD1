@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝐀𝐒𝐔𝐔-𝐌𝐃 IMPORTANT INFO* 
+      *𝗠𝗔𝗧𝗘𝗟𝗘𝗘 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/djasuu/ASUU-MD
+> https://github.com/tryphonee/MATELEE_TMD1
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vb9WMQb3mFYAbvuzVH2v
+> https://chat.whatsapp.com/JazGLNBxW5XDVEst3PN4kj
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *asuu tech*
-│❒⁠⁠⁠⁠ *DEV2* : *anywaytech*
+│❒⁠⁠⁠⁠ *DEV1* : *𝚖𝚊𝚝𝚎𝚕𝚎𝚎 𝚝𝚎𝚌𝚑*
+│❒⁠⁠⁠⁠ *DEV2* : *𝚝𝚒𝚖𝚗𝚊𝚜𝚊 𝚝𝚎𝚌𝚑*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *ASUU TECH*
+     *©𝚖𝚊𝚝𝚎𝚕𝚎 𝚌𝚛𝚎𝚊𝚝𝚘𝚛*
 
 ❒────────────────────❒`;
 
