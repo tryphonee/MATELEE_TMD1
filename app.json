@@ -1,9 +1,9 @@
 {
-  "name": "ASUU-MD-V1",
+  "name": "MATELEE_TMD",
   "description": "Best whatsapp bot developed by mr asuu",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/cq31r2.png",
-  "repository": "https://github.com/djasuu/ASUU-MD",
+  "logo": "https://files.catbox.moe/81x5xt.jpg",
+  "repository": "https://github.com/tryphonee/MATELEE_TMD1",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "-ASUU-MD",
+      "value": "-MATELEE-TMD",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu; eg: url1,url2,url3.....",
-      "value": "https://files.catbox.moe/cq31r2.png",
+      "value": "https://files.catbox.moe/81x5xt.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "description": "Your Name",
       "required": false,
-      "value": "Mr asuu"
+      "value": "MATELEE"
     },
     "NUMERO_OWNER": {
       "description": "Your number, don't put '+' and put your area code (example of Togo '228')",
       "required": false,
-      "value": "255678892xxx"
+      "value": "255697993596,255784766491"
     },
     "WARN_COUNT": {
       "description": "this is the limit of warn for warning commands",
