@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TOSH MD IMPORTANT INFO* 
+   *MATELEE MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+> https://github.com/tryphonee/MATELEE_TMD1
 
 *WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
+> https://chat.whatsapp.com/JazGLNBxW5XDVEst3PN4kj
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
+│❒⁠⁠⁠⁠ *DEV1* : *matelee tech*
+│❒⁠⁠⁠⁠ *DEV2* : *timnasa tech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *Matelee Tech*
 
 ❒────────────────────❒`;
 
