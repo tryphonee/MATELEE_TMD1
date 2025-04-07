@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "scan", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "intro", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -36,16 +36,13 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
  *Tap on the link to get session*
-  
- https://ibrahim-adams.vercel.app
- 
- 
+  https://matelee.onrender.com
  *STEPS TO GET SESSION*
  
  1. Open link
  2. Enter your whatsapp number with your country code eg : 254,255. And tap submit
  3. Ibrahim tech will sent you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that Ibrahim tech sent you.
+ 4. Tap on that notification then enter in the code that matelee tech sent you.
  5. It will load for sometime then Ibrahim tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
@@ -53,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
  `;
     
 let menuMsg = `
-> Made by : ©Ibrahim Adams 
+> Made by : ©matelee
 `;
 
    var lien = mybotpic();
